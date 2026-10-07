@@ -33,9 +33,10 @@
 
 일상의 불편에서 출발해 문제를 정의하고, 만들기 전에 **기획서부터** 씁니다.
 
+- 경쟁 제품 기능 감사로 우선순위 정하기
 - 성공 지표와 '하지 않을 것'부터 정하기
 - 원가와 시장 가격으로 가격 설계하기
-- 플랫폼 정책·심사 요건을 기획 단계에서 반영하기
+- 정책·심사 요건을 기획 단계에서 반영하기
 
 </td>
 <td width="33%" valign="top">
@@ -83,6 +84,49 @@
 ## 🚀 직접 기획하고 만든 것들
 
 <table>
+<tr>
+<td width="50%" valign="top">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/shot-unidoc-dark.svg">
+  <img src="./assets/shot-unidoc-light.svg" width="100%" alt="UniDoc 편집기 화면">
+</picture>
+</td>
+<td width="50%" valign="top">
+
+### UniDoc &nbsp;<sub>AI 문서 편집기 · 2026.06 – 09</sub>
+
+공공은 hwp, 기업은 docx, 유통은 PDF. 한국 문서 환경에서 포맷을 오가는 불편을 줄이려고 기획한 편집기입니다.
+
+- 경쟁 5개 제품 **138개 기능을 감사**해 공공문서 필수 기능 65개를 먼저 목표로 설정
+- 문서 모델은 하나, 포맷은 저장할 때 고르는 **'저장 = 변환'** 구조
+- AI는 문서를 직접 고치지 않고 **변경 추적으로만 제안**하고, 사용자가 수락·거절
+- 실파일 **714 / 714 무손실** 재저장 · docx → hwp **311 / 315** 변환 (손실 4건은 사용자에게 고지)
+
+<sub>개인 프로젝트 · 기획 · 설계 · 개발 · 검증</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 팔템 &nbsp;<sub>셀러용 시즌 트렌드 대시보드 · 2026.09 – 10</sub>
+
+셀러는 시즌 상품을 언제 올리고 언제 내릴지 감으로 정합니다. 명절·기념일 **D-day 기준**으로 트렌드를 정렬해 등록 시점을 보여 줍니다.
+
+- 기존 키워드 도구에 없는 차별점 4가지 정의: D-day 정렬(음력 명절 보정), 등록 권장일 역산, 공공 통계 결합, 산식·출처 공개
+- 크롤링 금지, 상대지수를 '판매량'으로 표기하지 않기 같은 **약관·정직성 원칙**을 먼저 확정
+- 6일 동안 기획 → 명세 5종 → 구현 → QA를 진행하며 **의사결정 기록 10건**과 리서치 문서 14종을 남기고 초대제로 배포
+
+<sub>사이드 프로젝트 · 기획 · AI 에이전트 팀 총괄</sub>
+
+</td>
+<td width="50%" valign="top">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/shot-8tem-dark.svg">
+  <img src="./assets/shot-8tem-light.svg" width="100%" alt="팔템 시즌 트렌드 대시보드 화면">
+</picture>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <picture>
